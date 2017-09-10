@@ -1,0 +1,21 @@
+{
+  "name": "guyanyijiu/support",
+  "description": "Some of the classes from Illuminate",
+  "license": "MIT",
+  "keywords": ["support", "Arr", "Str", "Collection"],
+  "authors": [
+    {
+      "name": "liuchao",
+      "email": "php_liuchao@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "guyanyijiu\\Support\\": "/src"
+    }
+  },
+  "minimum-stability": "dev"
+}
