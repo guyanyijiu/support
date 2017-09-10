@@ -1,5 +1,9 @@
 <?php
 
+use guyanyijiu\Support\Arr;
+use guyanyijiu\Support\Str;
+use guyanyijiu\Support\Collection;
+
 if (! function_exists('append_config')) {
     /**
      * Assign high numeric IDs to a config item to force appending.
