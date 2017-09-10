@@ -17,7 +17,7 @@
       "guyanyijiu\\Support\\": "/src"
     },
     "files": [
-      "helpers.php"
+      "src/helpers.php"
     ]
   },
   "minimum-stability": "dev"
