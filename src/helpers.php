@@ -1,9 +1,5 @@
 <?php
 
-use Illuminate\Support\Arr;
-use Illuminate\Support\Str;
-use Illuminate\Support\Collection;
-
 if (! function_exists('append_config')) {
     /**
      * Assign high numeric IDs to a config item to force appending.

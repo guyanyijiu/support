@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Support;
+namespace guyanyijiu\Support;
 
 use Countable;
 use Exception;
